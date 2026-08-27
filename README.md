@@ -63,8 +63,8 @@ Este material é gratuito e aberto para estudo pessoal. Todo conteúdo relaciona
 
 Novos labs, correções e conteúdo adicional são publicados aqui com frequência. Atualização relevante eu aviso nas redes — me segue lá pra não perder:
 
-- Instagram: [@seu_usuario](https://instagram.com/seu_usuario)
-- TikTok: [@seu_usuario](https://tiktok.com/@seu_usuario)
+- Instagram: [@pescivo](https://instagram.com/pescivo)
+- TikTok: [@pescivo](https://tiktok.com/@pescivo)
 
 Se encontrar erro técnico em algum arquivo, abre uma *issue* aqui no repositório — é a forma mais rápida de eu ver e corrigir.
 
