@@ -78,8 +78,7 @@ Este material é gratuito e aberto para estudo pessoal. Todo conteúdo relaciona
 
 Novos módulos, correções e conteúdo adicional são publicados aqui com frequência — esse material cresceu bastante desde a primeira versão e continua em construção ativa. Atualização relevante eu aviso nas redes — me segue lá pra não perder:
 
-- Instagram: [@seu_usuario](https://instagram.com/seu_usuario)
-- TikTok: [@seu_usuario](https://tiktok.com/@seu_usuario)
+- Instagram: [@pescivo](https://instagram.com/pescivo)
 
 Se encontrar erro técnico em algum arquivo, abre uma *issue* aqui no repositório — é a forma mais rápida de eu ver e corrigir.
 
